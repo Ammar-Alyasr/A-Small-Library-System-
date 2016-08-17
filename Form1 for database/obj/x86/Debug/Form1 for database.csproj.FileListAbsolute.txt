@@ -1,0 +1,32 @@
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\bin\Debug\Form1 for database.exe
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\bin\Debug\Form1 for database.pdb
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.EkleFormu.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.Form1.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.Properties.Resources.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.csproj.GenerateResource.Cache
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.exe
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.pdb
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.AraFormu.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.VerFormu.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.GeriAl.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.SilFormu.resources
+c:\users\ammar ahmed alyasry\documents\visual studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.ListeleFormu.resources
+C:\Users\Ammar Ahmed AlYASRY\Documents\Visual Studio 2010\Projects\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.csprojResolveAssemblyReference.cache
+D:\Derslerim\2.1\141601032_Ammar Saeed_Gkap\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.exe
+D:\Derslerim\2.1\141601032_Ammar Saeed_Gkap\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.pdb
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.exe
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.pdb
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\bin\Debug\Form1 for database.exe
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\bin\Debug\Form1 for database.pdb
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.csprojResolveAssemblyReference.cache
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.AraFormu.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.EkleFormu.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.Form1.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.GeriAl.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.ListeleFormu.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.Properties.Resources.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.SilFormu.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1_for_database.VerFormu.resources
+D:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.csproj.GenerateResource.Cache
+E:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.exe
+E:\Derslerim\2.1\C#\141601032_Ammar Saeed_Gkap kutuphane odevi\Form1 for database\Form1 for database\obj\x86\Debug\Form1 for database.pdb
